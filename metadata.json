@@ -1,0 +1,4 @@
+{"uuid": "googlesearch@defcat.tuta.io",
+ "shell-version": ["3.18.4"], 
+ "description": "Search google directly from gnome", 
+ "name": "Google Search"}
